@@ -1,0 +1,1 @@
+Netsiden jeg valgte er acme.com. Jeg valgte den netsiden fordi jeg syns at den ser enkel ut men jeg valgte ikke den for at jeg skulle ha en lett jobb, jeg ville lære fra det letteste og jobbe oppåver sånn at jeg lærer mer. jeg var ikke klar for de som var mer komplisert.
