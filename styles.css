@@ -1,0 +1,62 @@
+* {
+    font-family: sans-serif;
+} /*sans-sherif font*/
+ 
+body {
+    background-color: #99cc99;
+} /*bakgrunnsfarge*/
+ 
+.linje {
+    height: 10px;
+    background-color: #cccc99;
+    border-color: #cccc99;
+    border-width: 2px;
+}
+ 
+.gif {
+    width: 100px;
+    height: auto;
+} /*gif bilde størrelser */
+ 
+.atom {
+    position: absolute;
+    top: 25px;
+    right: 0;
+    margin: 10px;
+} /*Jeg putter bildene på forskjellige sider*/
+ 
+.anvil {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    margin: 10px;
+} /*Jeg putter bildene på forskjellige sider*/
+ 
+div {
+    text-align: center;
+} /*Legger overskriften i midten av siden*/
+ 
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+ 
+h3 {
+    margin-top: 0       ;
+}
+ 
+a {
+    font-weight: bold;
+}
+ 
+.htmlpicture {
+    float: right
+}
+ 
+.email {
+    text-align: left;
+    font-size: small;
+} 
+ 
+ 
+ 
